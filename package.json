@@ -1,0 +1,19 @@
+{
+  "name": "netflixpay",
+  "version": "1.0.0",
+  "description": "netflixpay by GygDoggy",
+  "main": "netflixpay.js",
+  "scripts": {
+    "test": "node netflixpay.js"
+  },
+  "author": "GygDoggy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "delay": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "node-random-name": "^1.0.1",
+    "puppeteer": "^10.1.0",
+    "random-useragent": "^0.5.0"
+  }
+}
